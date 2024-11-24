@@ -21,6 +21,4 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
 </div>
